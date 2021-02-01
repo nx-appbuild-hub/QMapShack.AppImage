@@ -1,0 +1,24 @@
+[Desktop Entry]
+Version=1.0
+Name=QMapShack
+Exec=AppRun %F
+Icon=QMapShack
+Terminal=false
+Type=Application
+X-MultipleArgs=false
+Categories=Qt;Geoscience;Geography;Science;
+GenericName=GPS device mapping utility
+Keywords=map;GPS;geocaching;waypoints;tracks;
+MimeType=application/x-gpx;
+StartupNotify=true
+
+Name[cs]=QMapShack
+GenericName[cs]=Data GPS - a správa map
+Name[de]=QMapShack
+GenericName[de]=GPS Daten- und Kartenverwaltung
+Name[es]=QMapShack
+GenericName[es]=Datos GPS y Cartografía
+Name[it]=QMapShack
+GenericName[it]=Cartografia e manipolazione dati GPS
+Name[ru]=QMapShack
+GenericName[ru]= Администрация GPS данных и карт
